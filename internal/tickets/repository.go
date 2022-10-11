@@ -2,7 +2,7 @@ package tickets
 
 import (
 	"context"
-	"desafio-go-web/internal/domain"
+	"desafio-goweb-juan-ramirez/internal/domain"
 	"fmt"
 )
 
